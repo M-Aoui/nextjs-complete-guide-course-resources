@@ -1,5 +1,6 @@
 import './globals.css'
 
+// metadata takes care of Header block.
 export const metadata = {
   title: 'NextJS Course App',
   description: 'Your first NextJS app!',
